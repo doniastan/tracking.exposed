@@ -11,7 +11,7 @@ All the volunteers contribute freely expecting acknowledgment for their effort a
 
 ---
 
-We are open to any proactive proposal from independent individuals. By *proactive*, we mean that we are looking for researchers, PhD students, journalist, programmers and professionals such as designers and web developers. In other words, we are looking for people that have already some form of expertise and self-management that are willing to contribute to our projects. If you fit, the best way is to reach out in our [mattermost channel](https://chat.securitywithoutborders.org/community/channels/trackingexposed), or write an email at: *support* at *tracking* dot *exposed*
+We are open to any proactive proposal from independent individuals. By *proactive*, we mean that we are looking for researchers, PhD students, journalists, programmers and professionals such as designers and web developers. In other words, we are looking for people that have already some form of expertise and self-management that are willing to contribute to our projects. If you fit, the best way is to reach out in our [mattermost channel](https://chat.securitywithoutborders.org/community/channels/trackingexposed), or write an email at: *support* at *tracking* dot *exposed*
 
 **Unfortunately** at the moment we cannot manage volunteers that cannot work independently, as we don't have simple tasks to delegate. If you feel you can do anything meaningful in the projects listed below connect with us! Your help would be very appreciated.
 
