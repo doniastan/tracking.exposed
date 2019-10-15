@@ -49,7 +49,7 @@ Tracking.exposed provides tools for those doing activities consistent with our m
 
 #### Algorithms analysis
 
-We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are: [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed), They share DNA portions: both works by capturing evidence, let peoples analyze their personalized experiences, and researchers can organize tests by controlling some profiles.
+We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed) which share DNA portions: they both work by capturing evidence, letting peoples analyzing their personalized experiences, and researchers can organize tests by controlling some profiles.
 
 <!-- [Pornhub TRex](https://pornhub.tracking.exposed) (*the last one, is also the most work-in-progress!*).  -->
 <!-- [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign. -->
@@ -62,8 +62,8 @@ Our first experiment on data reuse: [ZuckLess News](https://eu19.tracking.expose
 
 Sometimes, we run focused campaign such as the [European Election 2019](https://eu19.tracking.exposed), [Italian election analysis](https://elezioni.tracking.exposed), or during the [Argentinian G20](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/). We published papers in [2018](https://tracking.exposed/analysis-and-publications#2018) on the last two.
 
-*Collaborations*: Our team would gladly provide support if anyone display interest and we have space for them. To run such tests is necessary a domain expert. If you are one of them, or belong to a team which can run a focus campaign, get in touch at |support *at* tracking.exposed| because we might offer help.
+*Collaborations*: Our team would gladly provide support if anyone shows interest and we have room for them. To run such tests it is necessary a domain expert. If you are one of them, or belong to a team which can run a focus campaign, get in touch at |support *at* tracking.exposed| because we might offer help.
 
 #### Analysis of web trackers
 
-We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance. This has been delivered until last year, at the moment we didn't
+We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, is used in awareness campaigns against this form of corporate surveillance. This has been delivered until last year, at the moment we don't.

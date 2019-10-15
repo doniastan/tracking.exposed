@@ -17,13 +17,13 @@ layout: page
 
 Few organizations helped us in the last years, we produced probably [much more](https://facebook.tracking.exposed/analysis-and-publication) than what we were cover to do, we hope you enjoy it!
 
-## In 2019 we been sponsored by:
+## In 2019 we have been sponsored by:
 
 <div class="card-group">
   {{< sponsor
       title="European Research Council"
-      text="ALEX is the name of the academic project sponsored, and is host in the University of Amsterdam"
-      subtitle="Our goal is to stabilize the analysis, offer a product for researchers and skilled users, the privacy preserving access logic to the database."
+      text="ALEX is the name of the academic project sponsored, and it is hosted in the University of Amsterdam"
+      subtitle="Our goal is to stabilize the analysis, to offer a product for researchers and skilled users, the privacy preserving access logic to the database."
       link="https://erc.europa.eu/news/erc-proof-concept-grant-examples-research-projects-2-round"
       linked="The official announcement"
       picture="/images/sponsors/ERC-bianco.jpg" >}}
@@ -38,7 +38,7 @@ Few organizations helped us in the last years, we produced probably [much more](
 <div class="card-group">
   {{< sponsor
       title="NLnet"
-      text="With a small grant they contributed in help us integrating the semantic analysis, this is a fundamental step to start to add metadata on top of the evidences"
+      text="With a small grant they contributed to helping us integrating the semantic analysis, a fundamental step to start adding metadata on top of the evidences"
       link="https://nlnet.nl/project/trackingexposed/"
       linked="Their official project page"
       picture="/images/sponsors/nlnet.svg" >}}
@@ -53,7 +53,7 @@ Few organizations helped us in the last years, we produced probably [much more](
 <div class="card-group">
   {{< sponsor
       title="OSD"
-      text="Formerly know as former opensensordata. Luca Corsato and Andrea Raimondi been the first very sponsor of the project"
+      text="Formerly know as opensensordata. Luca Corsato and Andrea Raimondi have been the very first sponsors of the project"
       link="https://blog.osd.tools/lalgoritmo-dell-algoritmo-5c3a052cc626"
       linked="They released an internet (in Italian)"
       picture="/images/sponsors/osd-logo.svg" >}}
@@ -68,5 +68,5 @@ Few organizations helped us in the last years, we produced probably [much more](
       title="Lush & AccessNow #KeepItOn"
       link="https://www.accessnow.org/keepiton/"
       linked="read the campaign results and reasons"
-      text="Because algorithmic censorship is it something which should be investigated, we get a small sponsorship after Lush sold all the 404-bath-bomb to fundraise against Internet blackouts" >}}
+      text="Because algorithmic censorship is something which should be investigated, we get a small sponsorship after Lush sold all the 404-bath-bomb to fundraise against Internet blackouts" >}}
 </div>
